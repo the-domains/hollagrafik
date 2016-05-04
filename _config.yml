@@ -1,7 +1,7 @@
 name: hollagrafik
 favicon: null
-layout_spectrum: 0.8114042575471103
-typography_spectrum: 0.8280475896317512
+layout_spectrum: 0
+typography_spectrum: 0.13006
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.6662786395754665
+  brandStrength: 0.1875
   lightness: 0.16649379371665418
-  saturation: 0.9736249386332929
+  saturation: 0.8125
   rhythmicContrast: 0.3702908777631819
 purpose: []
